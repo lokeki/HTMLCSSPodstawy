@@ -1,0 +1,39 @@
+/*LoVe HAte*/
+/*nieodwiedzony link*/
+a:link {
+    color: #FF0000;
+}
+
+/*odwiedzony link*/
+a:visited {
+    color: #00FF00;
+}
+
+/*po najechaniu*/
+a:hover {
+    color: #FF00FF;
+}
+
+/*aktywny link*/
+a:active {
+    color: #0000FF;
+}
+
+li:first-child {
+    background-color: beige;
+}
+
+li:last-child {
+    background-color: beige;
+}
+
+li:nth-child(3) {
+    background-color: bisque;
+}
+
+li:nth-child(even) { /*odd, even, liczba, liczban + liczba*/
+    background-color: #000;
+    color: #fff;
+}
+
+

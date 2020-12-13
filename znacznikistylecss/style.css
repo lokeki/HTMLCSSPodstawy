@@ -1,0 +1,18 @@
+p, .wazny {
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: bold;
+    color: aqua;
+}
+
+.wazny{
+    color: green;
+}
+
+#superwazny{
+    color: red;
+}
+
+p.wazny span {
+    color: yellow;
+}

@@ -1,0 +1,7 @@
+body{
+    background-color: #9934fd;
+    /*color: #fff; skrót*/
+    /*color: rgba(110, 20, 20, .8); rgba(red 0-255, green 0-255, blue 0-255, przezroczystocs/alpha 0-1)*/
+    color: hsla(300, 80%, 80%, 1); /*hsla(hue 0-360,saturation0-100%, brightness 0-100%, alpha 0-1); */
+    
+}

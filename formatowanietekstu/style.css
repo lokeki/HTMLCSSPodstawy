@@ -1,0 +1,36 @@
+/*@import url('../reset.css');
+
+html{
+    font-size: 62.5%
+}
+body{
+    background-color: #24ff;
+    color: #fff;
+}
+
+h1 {
+    font-family: 'Tahoma', sans-serif;
+    font-size: 2rem; /*20
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+    font-variant:small-caps 
+}
+
+p{
+    line-height: 1.6; /*badz 1.6
+    text-indent: 2em;
+    font-kerning: normal;
+    text-align: left;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 0 rgba(0,0,0,0.5)
+} */
+
+@font-face{
+    font-family: 'Alex';
+    src: url('AlexBrush-Regular.ttf');
+}
+
+body{
+    font-family: 'Alex';
+}

@@ -1,0 +1,15 @@
+/*section{
+    background-image: url('../gory.jpeg');
+    height: 300px;
+    width: 200px;
+    background-repeat: no-repeat; 
+    background-position: center center;
+    background-size: cover;
+    background-color: aqua;
+}*/
+
+section{
+    height: 300px;
+    width: 200px;
+    background: aqua url('../gory.jpeg') no-repeat center center;
+}

@@ -1,0 +1,13 @@
+div{
+    width: 200px;
+    height: 200px;
+    /*border-bottom: 10px solid red;*/
+    border: 1px dashed blue;
+    /*margin: 10px 20px 40px 60px; gora prawa dół lewa*/
+    /*margin: 20px 10px; gora/dół prawo/lewo*/
+    margin: 20px auto; /* auto tak, aby coś było na stodku kontenera*/
+}
+
+.drugi{
+    margin: -20px auto;
+}

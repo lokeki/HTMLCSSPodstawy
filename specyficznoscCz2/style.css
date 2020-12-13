@@ -1,0 +1,22 @@
+@import url('../reset.css');
+@import url('importme.css');
+
+#zosia{
+    background-color: deeppink;
+}
+
+body div#zosia{
+    background-color: green;
+}
+
+body div.kaczuszka{
+    background-color: pink;
+}
+
+.kaczuszka{
+    background-color: yellow;
+}
+
+div.kaczuszka{
+    background-color: black;
+}

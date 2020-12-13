@@ -1,0 +1,38 @@
+@import url('../plikiZrodlowe/zrodla-html-css-od-podstaw/zrodla/23_pozycjonowanie/importme.css');
+
+.jeden{
+    position: relative;
+    top: 70px; /*gora*/
+    left: 70px;  
+    z-index: 1;
+}
+
+.dwa{
+    position: absolute;
+    left: 50px;
+    top: 520px; 
+}
+
+.dziecko{
+
+    padding: 10px;
+  position: absolute;
+  text-align: center;
+  width: 50%;
+  height: 50%;
+  bottom: 50%; 
+    right: 50%;
+
+    /*
+    width: 100px;
+    height: 100px;
+    background: #000;
+    position: absolute;
+    bottom: 20px; 
+    right: 20px;*/
+}
+
+.trzy{
+    position: fixed;
+    bottom: 10px;
+}
